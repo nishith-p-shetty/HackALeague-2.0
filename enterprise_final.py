@@ -14,7 +14,7 @@ from create_database import generate_data_store
 llm = ChatGoogleGenerativeAI(model="gemini-pro",
                              verbose = True,
                              temperature = 0.5,
-                             google_api_key="AIzaSyD_PWAMO77rDabsHbYZVQQRjZkMcVrmKqM")
+                             google_api_key="XXXXXXXXXXX")
 
 
 #create searches
